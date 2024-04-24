@@ -8,4 +8,4 @@ are 18 time slots.
 
 After all lectures are generated, this program will arrange all the lectures into several classrooms using greedy algorithm and output the result to a csv file. In the end, the csv file will be drawn as heatmap using pandas and matplotlib.
 
-![figure1](https://github.com/Evian-Chen/Implemetation-of-Interval-Partitioning-Algorithm/upload/main)
+![figure1](https://github.com/Evian-Chen/Implemetation-of-Interval-Partitioning-Algorithm/blob/main/Figure_1.png)
